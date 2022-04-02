@@ -1,5 +1,12 @@
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
+# Live Url
+https://ipfs.io/ipfs/QmVoHrz2bj17aAQPFCJbQMcEWkHn6okaNRFfBAKAddyLoG/
+
+# Contracts
+ExampleExternalContract = https://rinkeby.etherscan.io/address/0xd9273faEB6D0Ee83708173F9410f408be5D348fE
+StakerContract =  https://rinkeby.etherscan.io/address/0xc21E629EFA5F3DE75c8C209bec49016Bc30C2C74
+
 ## 🚩 Challenge 1: 🥩 Decentralized Staking App
 
 > 🦸 A superpower of Ethereum is allowing you, the builder, to create a simple set of rules that an adversarial group of players can use to work together. In this challenge, you create a decentralized application where users can coordinate a group funding effort. If the users cooperate, the money is collected in a second smart contract. If they defect, the worst that can happen is everyone gets their money back. The users only have to trust the code.
